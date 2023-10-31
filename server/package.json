@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Create A basic node application",
+  "author": "Decagon <info@decagon.dev>",
+  "private": true,
+  "scripts": {
+    "serve": "node lib/app"
+  },
+  "dependencies": {
+    "@types/node": "^14.14.22",
+    "ts-node": "^9.1.1",
+    "typescript": "^5.1.6"
+  }
+}
